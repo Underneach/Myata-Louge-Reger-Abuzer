@@ -1,5 +1,5 @@
 # Myata-Louge-Reger-Abuzer
-Авторегер акков Мята Lounge с применением промокодов
+Авторегер кальянки акков Мята Lounge с применением промокодов
 
 ### Особенности
     Полная асинхронность
@@ -10,4 +10,5 @@
     Решение капчи через Captcha Guru
     Запись результата в файл в формате number:auth_token
 
-    
+### Логика скрипта
+![image](https://github.com/Underneach/Myata-Louge-Reger-Abuzer/assets/137613889/8faad5bc-8535-48d0-b602-d8ace3bf6ec1)
